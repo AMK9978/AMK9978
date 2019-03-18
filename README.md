@@ -1,6 +1,3 @@
 # NoroozVacation
-گیت هاب فقط برای کدزنی نیست!
-todo list اینجا
- ام برای تعطیلات رو می نویسم و ان شاءالله به 
-done 
-اضافه میکنم:)
+Github is not only for programming!!
+I will write what are on my mind for Norooz vacation and make todoList and add them to done in project tab:)
